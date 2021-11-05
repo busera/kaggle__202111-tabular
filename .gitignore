@@ -10,6 +10,7 @@ notebooks_local_dev/
 *.key
 *.zip
 filekey.key
+config.ini
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
