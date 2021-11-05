@@ -14,7 +14,7 @@ watermark
 #ML
 #scikit-learn
 tensorflow-gpu
-#lightgbm
+lightgbm
 xgboost #only the pip versions supports GPU
 catboost
 mlxtend # stacking

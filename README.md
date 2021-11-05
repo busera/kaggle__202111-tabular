@@ -17,5 +17,5 @@ Good luck and have fun!
 Submissions are evaluated on **area under the ROC curve** between the predicted probability and the observed target.
 
 # Data
-- Data: `kaggle competitions download -c tabular-playground-series-oct-2021`
+- Data: `kaggle competitions download -c tabular-playground-series-nov-2021`
 - Repo: kaggle__202111-tabular
