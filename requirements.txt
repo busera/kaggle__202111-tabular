@@ -1,0 +1,25 @@
+# Basics
+#pandas
+#jupyterlab
+#requests
+#seaborn
+#plotly
+#matplotlib
+icecream
+kaggle
+#flake8
+#black
+watermark
+
+#ML
+#scikit-learn
+tensorflow-gpu
+#lightgbm
+xgboost #only the pip versions supports GPU
+catboost
+mlxtend # stacking
+optuna
+mlflow
+#shap # recommended via conda
+#lazypredict
+#Boruta

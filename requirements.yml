@@ -1,0 +1,18 @@
+name: kaggle
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pandas
+  - jupyterlab
+  - requests
+  - seaborn
+  - plotly
+  - matplotlib
+  - flake8
+  - black
+  - scikit-learn
+  - shap
+  - pip
+  - pip:
+    - -r requirements.txt
